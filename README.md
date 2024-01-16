@@ -11,13 +11,15 @@ Calculadora do iPhone com Python: Com uma interface gráfica moderna utilizando 
 A biblioteca  FLET voltada em Python voltada para o desenvolvimento de interfaces gráficas.
 
 ##Referência
-https://www.youtube.com/watch?v=rcMuTUpqUsU
+
+<br> https://www.youtube.com/watch?v=rcMuTUpqUsU </br>
 
 ## 2- Sistema de login in Pythoo
 Foi criado um sistema de login com python e pysimplegui  com interface gráfica. 
 
 ##Referência
-https://www.youtube.com/watch?v=yDRsbt714WA
+
+<br>https://www.youtube.com/watch?v=yDRsbt714WA </br>
 
 
 
