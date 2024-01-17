@@ -14,7 +14,7 @@ A biblioteca  FLET voltada em Python voltada para o desenvolvimento de interface
 
 <br> https://www.youtube.com/watch?v=rcMuTUpqUsU </br>
 
-## 2- Sistema de login in Pythoo
+## 2- Sistema de login in Python
 Foi criado um sistema de login com python e pysimplegui  com interface gráfica. 
 
 ##Referência
