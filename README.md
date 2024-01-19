@@ -21,5 +21,13 @@ Foi criado um sistema de login com python e pysimplegui  com interface gráfica.
 
 <br>https://www.youtube.com/watch?v=yDRsbt714WA </br>
 
+## 3- Boot no windows com Python - 19/01/2024
+Foi salvo um arquivo em excel no computador na área de trabalho e usado a biblioteca pyautogui, com esse arqvuivo foi criado um boot para abrir o arquivo. 
+Pyautogui fornece métodos para controlar mouse e teclado. Esse módulo pode ser usado para criar bots para automatizar tarefas repetitivas.
+
+##Referência 
+
+<br> https://www.youtube.com/watch?v=pZ6EqsHskM8&t=613s </br>
+
 
 
