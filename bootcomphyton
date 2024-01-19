@@ -1,0 +1,17 @@
+import pyautogui
+
+pyautogui.PAUSE = 2 
+
+pyautogui.press("win")
+pyautogui.write("login.xlsx")
+
+pyautogui.press("backspace")
+pyautogui.press("enter")
+
+pyautogui.click(x=369, y=224)
+pyautogui.write("bru")
+
+
+import time 
+time.sleep(3)
+pyautogui.position()
