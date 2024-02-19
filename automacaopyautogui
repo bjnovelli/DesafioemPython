@@ -1,0 +1,14 @@
+import pyautogui
+import time
+pyautogui.alert("Não usar o computador agora. O código será rodado.")
+pyautogui.PAUSE=1
+pyautogui.press('winleft')
+pyautogui.write('firefox')
+pyautogui.press('enter')
+time.sleep(1)
+pyautogui.write("https://www.youtube.com/")
+pyautogui.press('enter')
+pyautogui.hotkey('winleft','d')
+pyautogui.hotkey('alt','tab')
+time.sleep(1)
+pyautogui.alert(" O código acabou de rodar")
