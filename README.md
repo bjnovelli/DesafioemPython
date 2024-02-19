@@ -25,9 +25,17 @@ Foi criado um sistema de login com python e pysimplegui  com interface gráfica.
 Foi salvo um arquivo em excel no computador na área de trabalho e usado a biblioteca pyautogui, com esse arqvuivo foi criado um boot para abrir o arquivo. 
 Pyautogui fornece métodos para controlar mouse e teclado. Esse módulo pode ser usado para criar bots para automatizar tarefas repetitivas.
 
+
 ##Referência 
 
 <br> https://www.youtube.com/watch?v=pZ6EqsHskM8&t=613s </br>
+
+
+## 4-Automação biblioteca pyautogui 19-02-2024
+Automação de tarefas do computador usando a bibliote PYautogui
+
+
+
 
 
 
