@@ -31,8 +31,17 @@ Pyautogui fornece métodos para controlar mouse e teclado. Esse módulo pode ser
 <br> https://www.youtube.com/watch?v=pZ6EqsHskM8&t=613s </br>
 
 
-## 4-Automação biblioteca pyautogui 19-02-2024
+## 4-Automação biblioteca pyautogui 17-07-2024
 Automação de tarefas do computador usando a bibliote PYautogui
+
+## 5-Aplicação de cadastro de restaurante
+No visual code foi deselvolvido um programa de cadastro de restaurante em Python. Foram utilizadas as funções : input,if-else, validação com try-except e for.
+
+##Referência 
+
+<br> Alura </br> 
+
+
 
 
 
