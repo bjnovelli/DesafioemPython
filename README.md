@@ -52,7 +52,7 @@ Nome do arquivo: formulario_contrato
 
 
 ## 7-App base 27-07-24
-Nesse pequeno projeto usei a biblioteca para gerar a base de um app em flet, como havia mencionado anteriormente essa biblioteca podemos desenvolver aplicativos mobiles.
+Nesse pequeno projeto usei a biblioteca para gerar a base de um app em flet, como havia mencionado anteriormente essa biblioteca possibilita desenvolver aplicativos mobiles.
 
 
 ##Referência 
