@@ -51,6 +51,16 @@ Nome do arquivo: formulario_contrato
 <br> https://www.youtube.com/watch?v=wmaR4blXOtE  <br> 
 
 
+## 7-App base 27-07-24
+Nesse pequeno projeto usei a biblioteca para gerar a base de um app em flet, como havia mencionado anteriormente essa biblioteca podemos desenvolver aplicativos mobiles.
+
+
+##Referência 
+
+<br> https://www.youtube.com/watch?v=x8DM4omLWbM&t=361s  <br> 
+
+
+
 
 
 
