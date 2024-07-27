@@ -34,12 +34,22 @@ Pyautogui fornece métodos para controlar mouse e teclado. Esse módulo pode ser
 ## 4-Automação biblioteca pyautogui 19-02-24
 Automação de tarefas do computador usando a bibliote PYautogui
 
-## 5-Aplicação de cadastro de restaurante 17-05-24
+## 5-Aplicação de cadastro de restaurante 17-07-24
 No visual code foi deselvolvido um programa de cadastro de restaurante em Python. Foram utilizadas as funções : input,if-else, validação com try-except e for.
 
 ##Referência 
 
 <br> Alura </br> 
+
+## 6-Formulário Judicial para gerar contrato 27-07-24
+Nesse pequeno projeto usei a biblioteca flet e pandas para gerar um formulario que vira um contrato judicial. A biblioteca é bastante interessante e possui uma versatilidade, tem  a possibilidade de desenvolver os aplicativos mobile diretamente no navegador ou SDK do Flet.
+
+Nome do arquivo: formulario_contrato
+
+##Referência 
+
+<br> https://www.youtube.com/watch?v=wmaR4blXOtE  <br> 
+
 
 
 
